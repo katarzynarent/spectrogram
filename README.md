@@ -1,8 +1,8 @@
 # Spectrogram
 ## Table of contents
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Screenshots] (#screenshots)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Screenshots](#screenshots)
 
 ## General info
 Window app for creating visuals for spectrogram of an audio file.
